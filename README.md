@@ -8,7 +8,7 @@ This is repository for Programming Assesment MSc Health Data Science 23/24.
 Data from 500 singleton births in a London Hospital
 
 ## <b>Format</b>
-A data frame with 500 observations on the following 8 variables.
+A data frame with 500 observations on the following 8 variables. <br />
 • `id`: Identity number for mother and baby. <br />
 • `bweight`: Birth weight of baby. <br />
 • `lowbw`: Indicator for birth weight less than 2500 g. <br />
@@ -19,5 +19,5 @@ A data frame with 500 observations on the following 8 variables.
 • `sex`: Sex of baby: 1:Male, 2:Female. <br />
 
 ## <b>Reference</b>
-Michael Hills and Bianca De Stavola (2002). A Short Introduction to Stata 8 for Biostatistics,
+Michael Hills and Bianca De Stavola (2002). <i>A Short Introduction to Stata 8 for Biostatistics</i>,
 Timberlake Consultants Ltd
